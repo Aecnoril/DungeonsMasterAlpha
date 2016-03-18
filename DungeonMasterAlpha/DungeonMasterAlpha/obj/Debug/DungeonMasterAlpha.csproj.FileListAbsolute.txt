@@ -17,3 +17,6 @@ D:\Workspace\backup\DnD\AppProject\Alpha\DungeonMasterAlpha\DungeonMasterAlpha\o
 D:\Workspace\backup\DnD\AppProject\Alpha\DungeonMasterAlpha\DungeonMasterAlpha\obj\Debug\DungeonMasterAlpha.csproj.GenerateResource.Cache
 D:\Workspace\backup\DnD\AppProject\Alpha\DungeonMasterAlpha\DungeonMasterAlpha\obj\Debug\DungeonMasterAlpha.DMForm.resources
 D:\Workspace\backup\DnD\AppProject\Alpha\DungeonMasterAlpha\DungeonMasterAlpha\obj\Debug\DungeonMasterAlpha.StoryForm.resources
+D:\Workspace\DnD\DungeonAlpha\DungeonMasterAlpha\DungeonMasterAlpha\bin\Debug\DungeonMasterAlpha.exe.config
+D:\Workspace\DnD\DungeonAlpha\DungeonMasterAlpha\DungeonMasterAlpha\obj\Debug\DungeonMasterAlpha.exe
+D:\Workspace\DnD\DungeonAlpha\DungeonMasterAlpha\DungeonMasterAlpha\obj\Debug\DungeonMasterAlpha.pdb
